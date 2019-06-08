@@ -1,0 +1,35 @@
+
+
+body{
+    background-image: url(aaa.jpg);
+}
+
+    
+
+
+.flex {
+    
+    padding-left: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    padding-right: 2%;
+}
+
+
+
+
+
+#poster {
+    margin-top: 10%;
+    padding-left: 2%;
+    margin-bottom: 8%;
+    
+}
+
+#show-data {
+    margin-top: 2%;
+
+    
+    margin-right: 2%;
+}
